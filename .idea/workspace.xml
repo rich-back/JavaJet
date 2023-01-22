@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5a00ddf-efa0-48ab-a772-f2104dc9a6da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CabinCrewMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pilot.java" afterDir="false" />
+    <list default="true" id="b5a00ddf-efa0-48ab-a772-f2104dc9a6da" name="Changes" comment="&quot;RankTitle enum added&quot;">
       <change afterPath="$PROJECT_DIR$/src/main/java/Plane.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PlaneType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RankTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CabinCrewMemberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PassengerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PilotTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/PlaneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +47,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1674391018405</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Passenger Class added and tested&quot;">
+      <created>1674396033605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674396033605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;CabinCrewMember Class added and tested&quot;">
+      <created>1674396060662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674396060662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Pilot Class added and tested&quot;">
+      <created>1674396073586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674396073586</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;RankTitle enum added&quot;">
+      <created>1674396094307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674396094307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +102,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Passenger Class added and tested&quot;" />
+    <MESSAGE value="&quot;CabinCrewMember Class added and tested&quot;" />
+    <MESSAGE value="&quot;Pilot Class added and tested&quot;" />
+    <MESSAGE value="&quot;RankTitle enum added&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;RankTitle enum added&quot;" />
   </component>
 </project>
